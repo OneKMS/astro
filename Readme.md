@@ -66,6 +66,38 @@
 
  
 - ### Look for any Yogas (special combinations).
+
+    To identify yogas—special combinations—you’ll follow these steps:
+
+    1. Start with key house lords. Important yogas often form when lords of Kendra houses (1, 4, 7, 10) combine with Trikona houses (1, 5, 9).
+    
+    2. Check conjunctions. Are two important house lords sitting together in one house?
+    
+    3. Check mutual aspects. Are important house lords looking at each other (7th aspect)?
+    
+    4. Look for house lord exchanges. Does the lord of House A sit in the sign owned by the lord of House B, and vice versa? This is called Parivartana Yoga.
+    
+    5. Recognize famous yogas. For example, when the 9th lord (fortune) and 10th lord (career) combine, that’s a Dharma-Karma Adhipati Yoga.
+    
+    6. Note the houses involved. Is it wealth-related (2nd, 11th)? Career (10th)? Marriage (7th)? This tells you what area of life is enhanced.
+    
+    In short, you look for these patterns to spot special outcomes!
+
+        There are hundreds of yogas in classical astrology texts, so listing them all would be overwhelming! However, I can name a few key categories:
+      
+      1. Dhana Yogas (Wealth combinations)—Involve lords of the 2nd, 11th, or connections to 5th and 9th houses.
+      2. Raja Yogas (Power and status)—Formed when Kendra (1, 4, 7, 10) lords combine with Trikona (1, 5, 9) lords.
+      3. Gaja Kesari Yoga—When Jupiter is in a Kendra from the Moon.
+      4. Vipreet Raj Yogas—When lords of the 6th, 8th, or 12th houses occupy one of those houses, leading to success after struggle.
+      5. Neecha Bhanga Raja Yoga—When a debilitated planet is "canceled" by certain conditions, turning weakness into strength.
+      6. Parivartana Yoga—Exchange of signs between two lords.
+      7. Chandra-Mangal Yoga—Moon and Mars together.
+      8. Panch Mahapurusha Yogas—Formed when Mars, Mercury, Jupiter, Venus, or Saturn are strong and in an angle.
+      9. Sanyasa Yoga—Specific combinations indicating renunciation.
+      
+      These are just examples. In practice, you’ll focus on key yogas relevant to the chart.
+
+
   
 - ### Check aspects (Drishti) between planets and houses.
 
