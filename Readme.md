@@ -36,7 +36,32 @@
 
 
 ## Check planetary strength:
-- Is the planet in own sign, exalted, or debilitated?
+### - Is the planet in own sign, exalted, or debilitated?
+Here’s how you can logically evaluate a planet’s strength step by step:
+      - Identify the planet you are evaluating.
+      - Check if the planet is in:
+      Its own sign: Each planet rules one or two signs. If it’s in one of those, it’s strong.
+   * Exalted: Each planet has a sign where it’s at its peak strength (exaltation).
+   * Debilitated: Each planet has a sign where it’s at its weakest (debilitation).
+
+3. Cross-check:
+
+   * Use a reference list: For example, Sun is exalted in Aries, debilitated in Libra, and owns Leo. Repeat for each planet.
+
+4. Note the result:
+
+   * Strong if in own sign or exalted.
+   * Weak if debilitated.
+   * Neutral otherwise.
+
+5. Combine with context:
+
+   * Strong planets give results easily.
+   * Weak planets need more effort or maturity.
+
+Repeat this for each planet to gauge their baseline strength.
+
+  
 - Look for any Yogas (special combinations).
 - Check aspects (Drishti) between planets and houses.
 ## Analyze the Dasha (timing):
