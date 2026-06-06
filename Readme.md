@@ -6,6 +6,7 @@
 - For each house, determine its lord (planet ruling the sign).
 - Check where each house lord is placed.
 - Assess what areas of life connect based on lord placement.
+  
 - ### Sure! Let’s create a logical linked structure to follow house lords easily:
   - Start at House 1 (Lagna/Ascendant):
   - Identify the sign in House 1.
@@ -22,6 +23,25 @@
   - Continue this for Houses 6 through 12.
     
 Each house → Its sign → Its lord → Where that lord is placed. This linked structure ensures you’re seeing how each area of life flows into another!
+Absolutely! Here’s how you use house lord placements in points:
+
+1. Identify the house whose life area you’re evaluating (e.g., career, family, etc.).
+
+2. Find its lord (the planet ruling the sign in that house).
+
+3. Note where (in which house) that lord is placed.
+
+4. Connect the themes:
+
+   * The original house shows what life area you’re analyzing.
+   * The placement house shows where that life area’s results manifest.
+
+5. Interpret the relationship:
+
+   * If the lord of House A sits in House B, House A’s matters are influenced by House B’s themes.
+
+6. Repeat for other houses, creating a chain of life connections.
+
 
 ## Check planetary strength:
 - Is the planet in own sign, exalted, or debilitated?
