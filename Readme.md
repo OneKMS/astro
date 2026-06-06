@@ -253,3 +253,27 @@
 - Prioritize which life areas (houses) are most active now.
 
 With this structure, you’ll have a logical path to follow every time!
+
+
+              1. Dasha is the main theme:
+              
+                 * It sets the tone for a long period (years) and shows which life areas are broadly active.
+              
+              2. Gochar is the timing trigger:
+              
+                 * Transits show what is happening right now and which specific areas are temporarily activated.
+              
+              3. Dasha gives context:
+              
+                 * It explains the bigger picture—what chapter of life you’re in.
+              
+              4. Gochar fine-tunes events:
+              
+                 * It tells you when things actually happen within that chapter—like a specific day in the season.
+              
+              5. Both matter together:
+              
+                 * Dasha shows what’s possible, and Gochar shows when it unfolds.
+              
+              In short, Dasha sets the stage, and Gochar cues the action!
+
