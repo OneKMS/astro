@@ -182,6 +182,43 @@
 - Check current Saturn transit—note which house it’s affecting from Lagna and Moon.
 - Check current Jupiter transit—do the same.
 - Check Rahu/Ketu transits—see which axis is activated.
+
+
+              1. What is Gochar?
+              
+                 * Gochar means the current movement of planets in the sky at this moment.
+                 * Unlike your birth chart (which is static), transits are dynamic—they show the planets’ current positions.
+              
+              2. Why does Gochar matter?
+              
+                 * Transits activate or trigger the areas of life (houses) in your chart.
+                 * They show what’s happening right now, layered over your birth chart.
+              
+              3. From where do we read transits?
+              
+                 * We read transits from both your Lagna (Ascendant) and your Moon sign.
+                 * Lagna transits show external, practical events.
+                 * Moon transits show your emotional experience of those events.
+              
+              4. Key planets in transit:
+              
+                 * Saturn: Slow (about 2.5 years in one sign), brings discipline or challenges.
+                 * Jupiter: About 1 year per sign, brings growth or opportunities.
+                 * Rahu/Ketu: 18 months per sign, brings sudden shifts or karmic lessons.
+              
+              5. How to apply transits:
+              
+                 * Check which house a transit planet is moving through in your chart.
+                 * That house’s life area is currently activated.
+                 * Combine with your Dasha: If the transit planet matches the Dasha planet, it’s extra significant.
+              
+              6. Simple example:
+              
+                 * If Saturn transits your 10th house, career responsibilities increase.
+                 * If Jupiter transits your 5th house, creativity or children-related opportunities arise.
+              
+              In short, Gochar is about seeing what’s active in your life right now!
+
 ## Final synthesis:
 - Combine the chart (promise), Dasha (timing), and Gochar (current triggers).
 - Prioritize which life areas (houses) are most active now.
