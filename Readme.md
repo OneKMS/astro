@@ -52,9 +52,53 @@
     - Strong planets give results easily.
     - Weak planets need more effort or maturity.
     - Repeat this for each planet to gauge their baseline strength.
+  - Here’s a quick reference list:
+    - Sun: Exalted in Aries, debilitated in Libra.
+    - Moon: Exalted in Taurus, debilitated in Scorpio.
+    - Mars: Exalted in Capricorn, debilitated in Cancer.
+    - Mercury: Exalted in Virgo, debilitated in Pisces.
+    - Jupiter: Exalted in Cancer, debilitated in Capricorn.
+    - Venus: Exalted in Pisces, debilitated in Virgo.
+    - Saturn: Exalted in Libra, debilitated in Aries.
+    - Rahu: Often considered exalted in Gemini, debilitated in Sagittarius.
+    - Ketu: Often considered exalted in Sagittarius, debilitated in Gemini.
+    - Use this list to quickly gauge a planet’s strength!
+
  
 - ### Look for any Yogas (special combinations).
+  
 - ### Check aspects (Drishti) between planets and houses.
+
+
+      1. General rule:
+      
+         * Every planet aspects the 7th house from where it is placed.
+      
+      2. Mars special aspects:
+      
+         * Mars aspects the 4th house from itself.
+         * Mars aspects the 7th house from itself.
+         * Mars aspects the 8th house from itself.
+      
+      3. Jupiter special aspects:
+      
+         * Jupiter aspects the 5th house from itself.
+         * Jupiter aspects the 7th house from itself.
+         * Jupiter aspects the 9th house from itself.
+      
+      4. Saturn special aspects:
+      
+         * Saturn aspects the 3rd house from itself.
+         * Saturn aspects the 7th house from itself.
+         * Saturn aspects the 10th house from itself.
+      
+      5. Interpretation:
+      
+         * The planet influences the themes of the house it aspects.
+         * Benefics (like Jupiter) bring growth; malefics (like Saturn, Mars) bring discipline or pressure.
+      
+      Now you can use this map for any chart!
+
   
 ## Analyze the Dasha (timing):
 - Identify the current Mahadasha (major period).
