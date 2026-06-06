@@ -22,25 +22,17 @@
   - House 5 (Creativity/Children) → Sign → Lord → Lord’s placement.
   - Continue this for Houses 6 through 12.
     
-Each house → Its sign → Its lord → Where that lord is placed. This linked structure ensures you’re seeing how each area of life flows into another!
-Absolutely! Here’s how you use house lord placements in points:
+- ### Each house → Its sign → Its lord → Where that lord is placed. This linked structure ensures you’re seeing how each area of life flows into another!
 
-1. Identify the house whose life area you’re evaluating (e.g., career, family, etc.).
-
-2. Find its lord (the planet ruling the sign in that house).
-
-3. Note where (in which house) that lord is placed.
-
-4. Connect the themes:
-
-   * The original house shows what life area you’re analyzing.
-   * The placement house shows where that life area’s results manifest.
-
-5. Interpret the relationship:
-
-   * If the lord of House A sits in House B, House A’s matters are influenced by House B’s themes.
-
-6. Repeat for other houses, creating a chain of life connections.
+  - Identify the house whose life area you’re evaluating (e.g., career, family, etc.).
+  - Find its lord (the planet ruling the sign in that house).
+  - Note where (in which house) that lord is placed.
+  - Connect the themes:
+    - The original house shows what life area you’re analyzing.
+    - The placement house shows where that life area’s results manifest.
+  - Interpret the relationship:
+    - If the lord of House A sits in House B, House A’s matters are influenced by House B’s themes.
+  - Repeat for other houses, creating a chain of life connections.
 
 
 ## Check planetary strength:
