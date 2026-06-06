@@ -217,7 +217,36 @@
                  * If Saturn transits your 10th house, career responsibilities increase.
                  * If Jupiter transits your 5th house, creativity or children-related opportunities arise.
               
-              In short, Gochar is about seeing what’s active in your life right now!
+              In short, Gochar is about seeing what’s active in your life right now!'
+
+
+
+              1. Gochar = Planet moving through a Rashi:
+              
+                 * Each transit occurs through one of the 12 zodiac signs (Rashis).
+              
+              2. Rashi → House in your chart:
+              
+                 * In your birth chart, each Rashi is assigned to a specific house.
+                 * When a planet transits a Rashi, it activates that house of your chart.
+              
+              3. Example:
+              
+                 * If Saturn transits Taurus, and Taurus is your 6th house, then Saturn activates your 6th house themes.
+              
+              4. Each planet has its own speed:
+              
+                 * Fast planets (like Moon) change Rashis quickly.
+                 * Slow planets (like Saturn) stay in one Rashi for a long time.
+              
+              5. Interpretation:
+              
+                 * The Rashi shows the “stage.”
+                 * The house shows which life area is affected.
+                 * The planet shows what kind of energy is influencing that area.
+              
+              In short, the Rashi is the backdrop, and the house is the part of life being triggered!
+
 
 ## Final synthesis:
 - Combine the chart (promise), Dasha (timing), and Gochar (current triggers).
