@@ -135,6 +135,49 @@
 ## Analyze the Dasha (timing):
 - Identify the current Mahadasha (major period).
 - Identify the current Antardasha (sub-period).
+
+          1. What is a Dasha?
+          
+             * A Dasha is a planetary period that determines which planet is “active” in your life at any given time.
+             * The most common system is Vimshottari Dasha, which divides life into planetary periods totaling 120 years.
+          
+          2. Dasha Order and Length:
+          
+             * Ketu: 7 years
+             * Venus: 20 years
+             * Sun: 6 years
+             * Moon: 10 years
+             * Mars: 7 years
+             * Rahu: 18 years
+             * Jupiter: 16 years
+             * Saturn: 19 years
+             * Mercury: 17 years
+             * These run in this fixed order, repeating after Mercury.
+          
+          3. How is the starting Dasha determined?
+          
+             * The Moon’s birth Nakshatra (lunar mansion) decides which planet’s Dasha starts first.
+             * The portion of that Nakshatra the Moon was in decides how much of that first Dasha is left at birth.
+          
+          4. What is Antardasha (Sub-period)?
+          
+             * Each Mahadasha is further divided into Antardashas (sub-periods) of all nine planets, in the same order.
+             * Antardasha length = Mahadasha years × Antardasha planet years / 120.
+          
+          5. How to interpret:
+          
+             * Mahadasha planet: The main theme of life during that period.
+             * Antardasha planet: The specific focus within that main theme.
+             * Combine the house rulerships and placements of both planets to understand the events.
+          
+          6. Dasha + Antardasha + Chart:
+          
+             * See which houses the Dasha and Antardasha planets rule.
+             * See where they are placed—this shows which life areas are activated.
+             * The Mahadasha sets the tone; the Antardasha refines the timing of events.
+          
+          By combining Dasha, Antardasha, and planetary positions, you time life events more precisely!
+
 ## Apply Gochar (transits):
 - Check current Saturn transit—note which house it’s affecting from Lagna and Moon.
 - Check current Jupiter transit—do the same.
